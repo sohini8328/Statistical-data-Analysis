@@ -13,9 +13,7 @@ This is an example of how you may give instructions on setting up your project l
 
 Prequisites: This is an example of software and how to install them. VS Code
 
-Installation:
-
-Clone the repo 
+Clone the repo https://github.com/sohini8328/Statistical-data-Analysis.git
 
 
 
